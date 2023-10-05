@@ -78,6 +78,9 @@ All the amazing tools I have been using 🚀
 - Expenses
 - Stocks
 - Blossom
+- Questrade
+- Wealthica
+- Wave
 
 ## Camera & Videoconferencing
 
@@ -130,12 +133,14 @@ All the amazing tools I have been using 🚀
 
 - Shortery
 - Shortcuts
+- Actions By Sindre Sorhous
 
 ## Music
 
 - Apple Music
 - Shazam
 - Podcasts
+- Apple Music Classical
 
 ## Reading
 
@@ -154,6 +159,7 @@ All the amazing tools I have been using 🚀
 ## Travel
 
 - Apple Maps
+- AllTrails
 
 ## App Updates
 
@@ -185,3 +191,4 @@ All the amazing tools I have been using 🚀
 ## Mindmapping
 
 - MindNode
+
