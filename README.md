@@ -31,6 +31,7 @@ All the amazing tools I have been using 🚀
 
 - Arc
 - Safari
+- DuckDuck Go
 
 ## Safari Extensions
 
@@ -94,6 +95,8 @@ All the amazing tools I have been using 🚀
 ## Health
 
 - WaterMinder
+- Gentler Streak
+- Apple Health
 - Stand
 
 ## Screenshots
@@ -160,13 +163,15 @@ All the amazing tools I have been using 🚀
 
 - MacGPT
 - MacBing
+- ChatGPT Official App
 
-## Mouse & Keyboard
+## Mouse, Keyboard and other peripherals
 
 - Logitech G HUB
 - Logi Options+
 - Keyboard Cleaner
 - Hyperkey
+- LIFX
 
 ## Screen Management
 
@@ -177,3 +182,6 @@ All the amazing tools I have been using 🚀
 - iCloud Keychain
 - LastPass
 
+## Mindmapping
+
+- MindNode
