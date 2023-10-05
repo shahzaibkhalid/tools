@@ -20,6 +20,7 @@ All the amazing tools I have been using 🚀
 - Magnet
 - Dropover
 - HiDock
+- Velja
 
 ## Cleanup
 
@@ -37,6 +38,11 @@ All the amazing tools I have been using 🚀
 - Baking Soda
 - DuckDuckGo Privacy for Safari
 - Grammarly for Safari
+- Vinegar
+- Super Agent
+- PiPifier
+- PayPal Honey
+- Noir
 
 ## Mac Menubar
 
@@ -50,10 +56,14 @@ All the amazing tools I have been using 🚀
 - Figma
 - Fork
 - GitHub Desktop
+- Visual Studio Code
+- RapidAPI
 
-## Scheduling
+## Scheduling & Planning
 
 - Apple Calendar
+- Things
+- Reminders
 
 ## Note Taking
 
@@ -62,23 +72,108 @@ All the amazing tools I have been using 🚀
 - Freeform
 - Goodnotes
 
-## Expense Tracking
+## Expense Tracking & Finances
 
 - Expenses
+- Stocks
+- Blossom
 
-## Camera & Calls
+## Camera & Videoconferencing
 
 - Hand Mirror
 - Zoom
+- Muzzle
+- MeetingBar
+- Loom
 
-## Keybindings
-
-- Hyperkey
-
-## Media Playback
+## Media Playback & Photos
 
 - IINA
+- Photos
 
 ## Health
 
 - WaterMinder
+- Stand
+
+## Screenshots
+
+- Xnapper
+- Shottr
+
+## Time Tracking
+
+- Timery
+
+## Backup & Storage
+
+- Time Machine
+- iCloud
+- MEGAsync
+
+## Habits
+
+- Streaks
+
+## Instant Messaging & Emails
+
+- Signal
+- iMessage
+- Rocket
+- Apple Mail
+
+
+## Automation
+
+- Shortery
+- Shortcuts
+
+## Music
+
+- Apple Music
+- Shazam
+- Podcasts
+
+## Reading
+
+- Reeder
+- News
+- Books
+
+## Tracking
+
+- Parcel
+
+## Cacluation
+
+- Numi
+
+## Travel
+
+- Apple Maps
+
+## App Updates
+
+- MacUpdater
+
+## AI
+
+- MacGPT
+- MacBing
+
+## Mouse & Keyboard
+
+- Logitech G HUB
+- Logi Options+
+- Keyboard Cleaner
+- Hyperkey
+
+## Screen Management
+
+- Lunar
+
+## Password Management
+
+- iCloud Keychain
+- LastPass
+
