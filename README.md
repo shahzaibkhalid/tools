@@ -211,12 +211,11 @@ All the amazing tools & tech I have been using 🚀
 ## Password Management
 
 - iCloud Keychain
+  It's my primary password manager and being used acorss my Apple devices. Because I dont' have Android, Windows, or any other non-Apple, `iCloud's Keychain` just works for me. Otherwise, `1Password` is something I've tried in the past and it's an excellent choice too.
 - LastPass
-
-## Mindmapping
-
-- MindNode
+  `LastPass` stores some very sensitive information for me, where `iCloud Keychain` falls short. I have security questions, product activation keys, licenses, etc. there and I think it serves the purpose extremely well.
 
 ## Languages
 
 - Translate
+  I use Apple's built-in `Translate` app whenever I'm in a foreign land and need to translate verbally or otherwise parking signs, restuarnats menus, etc.
