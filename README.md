@@ -207,6 +207,10 @@ All the amazing tools & tech I have been using 🚀
 ## Screen Management
 
 - Lunar
+  It does couple of things for me:
+- My MacBook's can get HDR display brightness for SDR content and it helps a lot when I'm working outside where I need MacBook to get really, really bright sometimes.
+- Allows me to control the brightness and volume of a connected monitor
+- Get sub-zero dimming support which can lower the brightness a whole lot than traditional control
 
 ## Password Management
 
