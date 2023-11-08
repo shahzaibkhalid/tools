@@ -199,10 +199,16 @@ All the amazing tools & tech I have been using 🚀
 ## Mouse, Keyboard and other desk peripherals
 
 - Logitech G HUB
+  To configure and control LogiTech Litra Glow, my preffered lighting solution for video calls.
 - Logi Options+
+  To configure various keys on my LogiTech MX Master 3, my preferred mouse for all-day work.
 - Keyboard Cleaner
+  Enabling it avoids unnecessary clicks when I'm cleaning the keyboard on my MacBook.
 - Hyperkey
+  It's a great little utility which enables a bunch of new keybinding opportunities by utilizing the otherwise left-out `Caps Lock` key, and you can bind shortcuts like `Caps Lock + S` or `Caps Lock + Alt + S`.
+  This opens up so many new global keybindings!
 - LIFX
+  I use `LIFX Z Strip` for backlighting on my monitor and their mobile app to build custom routine, automatically toggle the light based on whether the monitor is turned on or off, etc.
 
 ## Screen Management
 
