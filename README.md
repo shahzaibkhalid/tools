@@ -4,43 +4,66 @@ All the amazing tools & tech I have been using 🚀
 
 ## Adblocker & Privacy
 
-- Adguard
-- Hush
-- DuckDuckGo Privacy for Safari
+### Adguard
+
+Adguard has been my go-to choice to block ads, fingerprinting and all sorts of nonsense on the web. I have got a family subscription and couldn't recommend it more!
+
+### Hush
+
+It's a Safari extension to block nags to accept cookies and to fight against fingerprinting. I particularly have it there to block the cookies pop-up.
+
+### DuckDuckGo Privacy for Safari
+
+It's also a Safari extension and helps showing ratings of websites, what tracker websites tried to contact and a whole lot of other detail.
 
 ## Battery
 
-- AirBuddy
-  Unlike iPhone and iPad, Apple doesn't show the battery status of AirPods when opened next to a Mac. AirBuddy elegantly solves this by showing a near-native designed popup indicating the current battery status of my AirPods Pro. Not just that, it also shows the power left in other bluetooth prepherils near me.
+### AirBuddy
 
-- AlDente
-  My Mac is always plugged-in and being powered by a monitor, and that's where AlDente comes in! It's a great utility that I've configured not to overcharge my MacBook Pro. It's always set to 70% maximum. AlDente also comes with some other great features like status indicator in the menubar, battery calibration (which I have set as a weekly trigger), and heat-sensitive battery charging among others.
+Unlike iPhone and iPad, Apple doesn't show the battery status of AirPods when opened next to a Mac. AirBuddy elegantly solves this by showing a near-native designed popup indicating the current battery status of my AirPods Pro. Not just that, it also shows the power left in other bluetooth prepherils near me.
+
+### AlDente
+
+My Mac is always plugged-in and being powered by a monitor, and that's where AlDente comes in! It's a great utility that I've configured not to overcharge my MacBook Pro. It's always set to 70% maximum. AlDente also comes with some other great features like status indicator in the menubar, battery calibration (which I have set as a weekly trigger), and heat-sensitive battery charging among others.
 
 ## Window Management
 
-- AltTab
-  I have used Windows as my main operaring system back in the day and perhaps the only thing I missed from that era was the tab view of every window when using Ctrl+Tab to cycle through them. Mac just doesn't do that alright, it shows an icon of the app, regardless whether any window of that app is opened at all or 10 windows are opened at once. AltTab single-handedly solves this problem for me. Plus, it's got a lot more options to configure, e.g. whether to tab through windows across different desktops which I've used in the past.
-- Magnet
-  Another jewel in Windows, quickly snapping Windows to the side, on the top, equally divide all the space among 4 apps, you name it! Magnet does it all very well. I rely on the keyboard shortcuts 99% of the time but we can snap window to the top, bottom, etc. and it's got excellent support for gestures. We can also achieve some of these configurations from the menubar option as well.
-- Dropover
-  Dropover is a simple utility that I mainly use for two things. To create shelves of files, e.g. when taking a screenshot, one can hold the just screenshoted-thumbnail and put it into a shelve. This way, we can drop the image from the shelve to the app where we want that photo tyo be. Multiple shelves can be created to temporarily hold various kind of files for categoriozation purpose, etc. My second use with this is to quickly share a file with anyone using a URL. Dropover can do this using iCloud, Dropbox etc, or through its own service which is something I usually do to share some non-important files across.
-- Velja
-  Sindre built this amazing utility which can be set as your default browser (though it's not a browser itself!) and we can define various rules based on domain matching, RegEx, subdomain, URL containing a particular string, etc. and route different URLs to different browsers.
-  I have plenty of these custom rules, but one scenario where this helps me a lot is to open all the `localhost` URLs in `Arc` which is my preffered browser for development work and not in Safari (I hate their DevTools!) which I use for everything else.
+### AltTab
+
+I have used Windows as my main operaring system back in the day and perhaps the only thing I missed from that era was the tab view of every window when using Ctrl+Tab to cycle through them. Mac just doesn't do that alright, it shows an icon of the app, regardless whether any window of that app is opened at all or 10 windows are opened at once. AltTab single-handedly solves this problem for me. Plus, it's got a lot more options to configure, e.g. whether to tab through windows across different desktops which I've used in the past.
+
+### Magnet
+
+Another jewel in Windows, quickly snapping Windows to the side, on the top, equally divide all the space among 4 apps, you name it! Magnet does it all very well. I rely on the keyboard shortcuts 99% of the time but we can snap window to the top, bottom, etc. and it's got excellent support for gestures. We can also achieve some of these configurations from the menubar option as well.
+
+### Dropover
+
+Dropover is a simple utility that I mainly use for two things. To create shelves of files, e.g. when taking a screenshot, one can hold the just screenshoted-thumbnail and put it into a shelve. This way, we can drop the image from the shelve to the app where we want that photo tyo be. Multiple shelves can be created to temporarily hold various kind of files for categoriozation purpose, etc. My second use with this is to quickly share a file with anyone using a URL. Dropover can do this using iCloud, Dropbox etc, or through its own service which is something I usually do to share some non-important files across.
+
+### Velja
+
+Sindre built this amazing utility which can be set as your default browser (though it's not a browser itself!) and we can define various rules based on domain matching, RegEx, subdomain, URL containing a particular string, etc. and route different URLs to different browsers.
+I have plenty of these custom rules, but one scenario where this helps me a lot is to open all the `localhost` URLs in `Arc` which is my preffered browser for development work and not in Safari (I hate their DevTools!) which I use for everything else.
 
 ## Cleanup
 
-- AppCleaner
-  Mac apps often create a lot of other directories, caches, etc. When uninstalled by simply dragging to Trash, sometimes those caches, files, etc. are not deleted. This is where I use `AppCleaner`! I just drag the app onto it and it automatically find all the files relevant to that app and I can delete all of that stuff together at once.
-- DaisyDisk
-  Just like any software OS, Junk can pile up over time in Mac as well. Caches, unused apps, system junk, projects you don't need anymore, etc. `DaisyDisk` helps there a lot. I run this every once in a while, and it categorizes everything for me, and I can delete everything that's needed anymore.
+### AppCleaner
+
+Mac apps often create a lot of other directories, caches, etc. When uninstalled by simply dragging to Trash, sometimes those caches, files, etc. are not deleted. This is where I use `AppCleaner`! I just drag the app onto it and it automatically find all the files relevant to that app and I can delete all of that stuff together at once.
+
+### DaisyDisk
+
+Just like any software OS, Junk can pile up over time in Mac as well. Caches, unused apps, system junk, projects you don't need anymore, etc. `DaisyDisk` helps there a lot. I run this every once in a while, and it categorizes everything for me, and I can delete everything that's needed anymore.
 
 ## Browser
 
-- Arc
-  I love `Arc`! The sidebar with tabs, spaces to manage different aspects of work, (for example one space per client, etc.) and so many other great posibilities. Because I develop software for the web, `Chromium` based browser is something where I need to test stuff first. Arc has been excellent for me so far and I use it primarily for software development, and to achieve work-related separation with the use of spaces.
-- Safari
-  Though I love `Arc`, Safari is my main browser and have been for a really long-time because it can sync tabs for me across my iPhone, and iPad. A tad more secure and less power-intensive (I'm looking at you, Chrome!) and just sits nice with the overall Apple's ecosystem. I've been eyeing on `Arc`'s mobile app and who knows I'll switch full-time once their mobile app matures.
+### Arc
+
+I love `Arc`! The sidebar with tabs, spaces to manage different aspects of work, (for example one space per client, etc.) and so many other great posibilities. Because I develop software for the web, `Chromium` based browser is something where I need to test stuff first. Arc has been excellent for me so far and I use it primarily for software development, and to achieve work-related separation with the use of spaces.
+
+### Safari
+
+Though I love `Arc`, Safari is my main browser and have been for a really long-time because it can sync tabs for me across my iPhone, and iPad. A tad more secure and less power-intensive (I'm looking at you, Chrome!) and just sits nice with the overall Apple's ecosystem. I've been eyeing on `Arc`'s mobile app and who knows I'll switch full-time once their mobile app matures.
 
 ## Safari Extensions
 
@@ -205,34 +228,49 @@ All the amazing tools & tech I have been using 🚀
 
 ## Mouse, Keyboard and other desk peripherals
 
-- Logitech G HUB
-  To configure and control LogiTech Litra Glow, my preffered lighting solution for video calls.
-- Logi Options+
-  To configure various keys on my LogiTech MX Master 3, my preferred mouse for all-day work.
-- Keyboard Cleaner
-  Enabling it avoids unnecessary clicks when I'm cleaning the keyboard on my MacBook.
-- Hyperkey
-  It's a great little utility which enables a bunch of new keybinding opportunities by utilizing the otherwise left-out `Caps Lock` key, and you can bind shortcuts like `Caps Lock + S` or `Caps Lock + Alt + S`.
-  This opens up so many new global keybindings!
-- LIFX
-  I use `LIFX Z Strip` for backlighting on my monitor and their mobile app to build custom routine, automatically toggle the light based on whether the monitor is turned on or off, etc.
+### Logitech G HUB
+
+To configure and control LogiTech Litra Glow, my preffered lighting solution for video calls.
+
+### Logi Options+
+
+To configure various keys on my LogiTech MX Master 3, my preferred mouse for all-day work.
+
+### Keyboard Cleaner
+
+Enabling it avoids unnecessary clicks when I'm cleaning the keyboard on my MacBook.
+
+### Hyperkey
+
+It's a great little utility which enables a bunch of new keybinding opportunities by utilizing the otherwise left-out `Caps Lock` key, and you can bind shortcuts like `Caps Lock + S` or `Caps Lock + Alt + S`.
+This opens up so many new global keybindings!
+
+### LIFX
+
+I use `LIFX Z Strip` for backlighting on my monitor and their mobile app to build custom routine, automatically toggle the light based on whether the monitor is turned on or off, etc.
 
 ## Screen Management
 
-- Lunar
-  It does couple of things for me:
+### Lunar
+
+It does couple of things for me:
+
 - My MacBook's can get HDR display brightness for SDR content and it helps a lot when I'm working outside where I need MacBook to get really, really bright sometimes.
 - Allows me to control the brightness and volume of a connected monitor
 - Get sub-zero dimming support which can lower the brightness a whole lot than traditional control
 
 ## Password Management
 
-- iCloud Keychain
-  It's my primary password manager and being used acorss my Apple devices. Because I dont' have Android, Windows, or any other non-Apple, `iCloud's Keychain` just works for me. Otherwise, `1Password` is something I've tried in the past and it's an excellent choice too.
-- LastPass
-  `LastPass` stores some very sensitive information for me, where `iCloud Keychain` falls short. I have security questions, product activation keys, licenses, etc. there and I think it serves the purpose extremely well.
+### iCloud Keychain
+
+It's my primary password manager and being used acorss my Apple devices. Because I dont' have Android, Windows, or any other non-Apple, `iCloud's Keychain` just works for me. Otherwise, `1Password` is something I've tried in the past and it's an excellent choice too.
+
+### LastPass
+
+`LastPass` stores some very sensitive information for me, where `iCloud Keychain` falls short. I have security questions, product activation keys, licenses, etc. there and I think it serves the purpose extremely well.
 
 ## Languages
 
-- Translate
-  I use Apple's built-in `Translate` app whenever I'm in a foreign land and need to translate verbally or otherwise parking signs, restuarnats menus, etc.
+### Translate
+
+I use Apple's built-in `Translate` app whenever I'm in a foreign land and need to translate verbally or otherwise parking signs, restuarnats menus, etc.
