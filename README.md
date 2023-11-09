@@ -180,20 +180,27 @@ All the amazing tools & tech I have been using 🚀
 ## Cacluation
 
 - Numi
+  Numi adds a wealth of opportunities and basically combines a notepad and a calculator into one handly little utility which I always keep open to convert stuff
 
 ## Travel
 
 - Apple Maps
+  Apple Maps is my primary choice for routing and navigation purposes now that it's gotten so much better here in Canada, and it works for me really well (again, form over function!)
+  Though, I still have to check reviews, business hours, etc. from Google Maps which can easily be done on its website.
 - AllTrails
+  I love hiking and exploring remote areas and AllTrails works incredibly well to discover and review new hikes when I'm somewhere remote and its offline support is excellent.
 
 ## App Updates
 
 - MacUpdater
+  This is a handy-little utility which checks all the apps for updates and then pending updates can be installed from the `MacUpdater` app itself which keeps me sane as I like to be on top of everything new.
 
 ## AI
 
 - MacGPT
 - MacBing
+  I don't use it very often, it's there just when ChatGPT doesn't work and `MacBing` basically wraps a container around the Bing AI `WebView`. I have a shortcut set which brings it in view from menubar (how cool is that?) and I can
+  ask it anything without switching apps.
 - ChatGPT Official App
 
 ## Mouse, Keyboard and other desk peripherals
