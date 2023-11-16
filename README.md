@@ -178,76 +178,114 @@ Though I love `Arc`, Safari is my main browser and have been for a really long-t
 - Shortery
 - Shortcuts
 - Actions By Sindre Sorhous
-- Alfred 5
-- Rocket
-- Speedtest
+
+### Alfred 5
+
+A spotlight replacement for on the Mac.
+
+### Rocket
+
+A Slack-like way to quickly add emoji to any input field.
+
+### Speedtest
+
+To test speed whenever network lags behind.
 
 ## Music & Audio
 
-- Apple Music
-- Shazam
-- Podcasts
-- Apple Music Classical
-- Voice Memos
+### Apple Music
+
+My primary choice for everything music.
+
+### Shazam
+
+To discover new music and find songs being played around me.
+
+### Apple Podcasts
+
+I'm not a huge podcast person but Apple's own podcast app works for me whenever I feel like listening to one.
+
+### Voice Memos
+
+To record voice notes.
 
 ## Reading
 
-- Reeder
-- News
-- Books
+### Reeder
+
+Primary choice when it comes to subscribing to RSS feeds and reading on-demand.
+
+### Apple News
+
+Apple's native app to keep tabs on what's happening around the world.
+
+### Apple Books
+
+I tend to buy physical copies but if I need to read from a PDF, or an epub book, it's imported into Apple Books and I read it there.
 
 ## Tracking
 
-- Parcel
+### Parcel
+
+It tracks packages (or I should say parcels) from a variety of carriers, no need to have separate apps for UPS, Canada Post, etc.
 
 ## Cacluation
 
-- Numi
-  Numi adds a wealth of opportunities and basically combines a notepad and a calculator into one handly little utility which I always keep open to convert stuff
+### Numi
+
+Numi combines notepad and a calculator into one handy little utility which is always left open to convert stuff around
 
 ## Travel
 
-- Apple Maps
-  Apple Maps is my primary choice for routing and navigation purposes now that it's gotten so much better here in Canada, and it works for me really well (again, form over function!)
-  Though, I still have to check reviews, business hours, etc. from Google Maps which can easily be done on its website.
-- AllTrails
-  I love hiking and exploring remote areas and AllTrails works incredibly well to discover and review new hikes when I'm somewhere remote and its offline support is excellent.
+### Apple Maps
+
+Primary choice for routing and navigation, ocassionally use Google Maps on web to check reviews and confirm hours.
+
+### AllTrails
+
+Perfect to explore new hiking trails and routes.
 
 ## App Updates
 
-- MacUpdater
-  This is a handy-little utility which checks all the apps for updates and then pending updates can be installed from the `MacUpdater` app itself which keeps me sane as I like to be on top of everything new.
+### MacUpdater
+
+Handy utility which checks all the apps for updates and then pending updates can be installed from the `MacUpdater` app itself.
 
 ## AI
 
-- MacGPT
-- MacBing
-  I don't use it very often, it's there just when ChatGPT doesn't work and `MacBing` basically wraps a container around the Bing AI `WebView`. I have a shortcut set which brings it in view from menubar (how cool is that?) and I can
-  ask it anything without switching apps.
-- ChatGPT Official App
+### MacGPT
+
+Primary AI assistant of choice. I have a mouse key binding to open a sidebar of MacGPT and it pulls a drawer from the sidebar which sits on top of any other content, which is really cool!
+
+### MacBing
+
+A ChatGPT alternative when it fails (or does it?). Have a shortcut to open it from the menubar.
+
+### ChatGPT Official App
+
+Being used actively on iOS and iPadOS, also have various shortcuts where ChatGPT's action being used, one key example is my shortcut to summarize webpages and videos.
 
 ## Mouse, Keyboard and other desk peripherals
 
 ### Logitech G HUB
 
-To configure and control LogiTech Litra Glow, my preffered lighting solution for video calls.
+To configure and control LogiTech Litra Glow, which turns on whenever camera opens & vice versa.
 
 ### Logi Options+
 
-To configure various keys on my LogiTech MX Master 3, my preferred mouse for all-day work.
+To configure my LogiTech MX Master 3, my preferred choice when it comes to computer mouse for all-day work.
 
 ### Keyboard Cleaner
 
-Enabling it avoids unnecessary clicks when I'm cleaning the keyboard on my MacBook.
+It avoids unnecessary clicks when I'm cleaning the keyboard on my MacBook.
 
 ### Hyperkey
 
-It's a great little utility which enables a bunch of new keybinding opportunities by utilizing the otherwise left-out `Caps Lock` key, and you can bind shortcuts like `Caps Lock + S` or `Caps Lock + Alt + S`.
-This opens up so many new global keybindings!
+Utilizing the otherwise left-out, and boring `Caps Lock` key, and binding shortcuts like `Caps Lock + S` or `Caps Lock + Alt + S`.
 
 ### LIFX
 
-I use `LIFX Z Strip` for backlighting on my monitor and their mobile app to build custom routine, automatically toggle the light based on whether the monitor is turned on or off, etc.
+`LIFX Z Strip` for backlighting on my monitor and their mobile app to build custom routine, it automatically toggle the light based on whether the monitor is turned on or off.
 
 ## Screen Management
 
@@ -255,22 +293,22 @@ I use `LIFX Z Strip` for backlighting on my monitor and their mobile app to buil
 
 It does couple of things for me:
 
-- My MacBook's can get HDR display brightness for SDR content and it helps a lot when I'm working outside where I need MacBook to get really, really bright sometimes.
-- Allows me to control the brightness and volume of a connected monitor
-- Get sub-zero dimming support which can lower the brightness a whole lot than traditional control
+- Get HDR brightness for SDR content, helps when working in a really bright environment.
+- Ability to control volume and brightness of third-party monitors
+- Sub-zero dimming support which can lower the brightness a whole lot than traditional control
 
 ## Password Management
 
 ### iCloud Keychain
 
-It's my primary password manager and being used acorss my Apple devices. Because I dont' have Android, Windows, or any other non-Apple, `iCloud's Keychain` just works for me. Otherwise, `1Password` is something I've tried in the past and it's an excellent choice too.
+Primary password manager of choice.
 
 ### LastPass
 
-`LastPass` stores some very sensitive information for me, where `iCloud Keychain` falls short. I have security questions, product activation keys, licenses, etc. there and I think it serves the purpose extremely well.
+To store security questions, product activation keys, licenses, etc.
 
 ## Languages
 
 ### Translate
 
-I use Apple's built-in `Translate` app whenever I'm in a foreign land and need to translate verbally or otherwise parking signs, restuarnats menus, etc.
+Native iOS Translate app to convert labels, verbal communication, and everything in between.
