@@ -16,6 +16,60 @@ Safari extension to block nags asking to accept cookies and to fight against fin
 
 Safari extension showing website rating, what trackers are being contacted, and so much more.
 
+## Visual Studio Code's Extensions
+
+Here are the VSCode extensions I'm using:
+
+aaron-bond.better-comments@3.0.2
+amazonwebservices.aws-toolkit-vscode@1.98.0
+ChakrounAnas.turbo-console-log@2.9.6
+christian-kohler.npm-intellisense@1.4.5
+christian-kohler.path-intellisense@2.8.5
+Continue.continue@0.6.3
+cssho.vscode-svgviewer@2.0.0
+dbaeumer.vscode-eslint@2.4.2
+eamodio.gitlens@14.5.0
+Equinusocio.vsc-community-material-theme@1.4.6
+Equinusocio.vsc-material-theme@33.10.5
+equinusocio.vsc-material-theme-icons@3.1.4
+esbenp.prettier-vscode@10.1.0
+formulahendry.auto-close-tag@0.5.14
+formulahendry.auto-rename-tag@0.1.10
+GitHub.codespaces@1.16.2
+GitHub.vscode-pull-request-github@0.76.1
+golang.go@0.40.0
+GraphQL.vscode-graphql@0.8.19
+GraphQL.vscode-graphql-syntax@1.2.2
+GregorBiswanger.json2ts@0.0.6
+hsnazar.hyper-term-theme@0.3.0
+IgorSbitnev.error-gutters@1.0.1
+jakob101.RelativePath@1.5.0
+jasonnutter.search-node-modules@1.3.0
+loiane.ts-extension-pack@0.3.0
+MaoSantaella.night-wolf@1.13.0
+mattpocock.ts-error-translator@0.10.1
+mgmcdermott.vscode-language-babel@0.0.40
+mikestead.dotenv@1.0.1
+mongodb.mongodb-vscode@1.3.1
+ms-vsliveshare.vsliveshare@1.0.5892
+msjsdiag.vscode-react-native@1.12.1
+nhoizey.gremlins@0.26.0
+PKief.material-icon-theme@4.31.0
+pmneo.tsimporter@2.0.1
+pomdtr.excalidraw-editor@3.6.1
+redhat.vscode-yaml@1.14.0
+runem.lit-plugin@1.4.0
+shardulm94.trailing-spaces@0.4.1
+stringham.move-ts@1.12.0
+unifiedjs.vscode-mdx@1.5.0
+usernamehw.errorlens@3.15.0
+vincaslt.highlight-matching-tag@0.11.0
+VisualStudioExptTeam.intellicode-api-usage-examples@0.2.8
+VisualStudioExptTeam.vscodeintellicode@1.2.30
+vivaxy.vscode-conventional-commits@1.25.0
+wayou.vscode-todo-highlight@1.0.5
+withfig.fig@0.0.7
+
 ## Battery
 
 ### AirBuddy
