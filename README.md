@@ -289,6 +289,60 @@ Primary backup and storage platform on the cloud.
 
 To archive/unarchive files.
 
+## Alfred's Workflows
+
+I use the following Alfred workflows:
+
+- About Mac by Alan He
+- Add to Dropover by Damir Tursunović
+- Alfred Gallery by Vítor Galvão
+- Arc Tabs and Spaces by Qiangua
+- atop by Chris Grieser
+- Calculate Anything by Biati Digital
+- Calm Notifications by Vítor Galvão
+- caniuse by Will Farrell
+- Coffee Coffee by Vítor Galvão
+- Compress by Rob Allen
+- Critic Ratings by Vítor Galvão
+- Deep Contacts Search by Andrew Pepperrell
+- DevToys by Kai Chu Chung
+- Emoji Mate by Fede Calendino
+- Fakeum by Dean Jackson
+- Flush DNS by boneskull
+- GitHub Repos by edgarjs
+- Gitmoji by Klemen Tušar
+- Google Maps Navigation by Adrian Bartnik
+- Hacker News Search by jereze
+- IP Address by Alex Chan
+- Link Clean by Vítor Galvão
+- Lorem Ipsum by Alex Chan
+- Low Power Mode by Vítor Galvão
+- MDN Search by Pawel Grzybek
+- Menu Bar Search by Benzi Ahamed
+- Microphone Control by Acidham
+- Network by Martin Rodalgaard
+- Network Quality by Vítor Galvão
+- Next.js Docs by Martin M.
+- Numi Fixed by Dmitry Nikolaev
+- Package Managers by Will Farrell
+- Paste as Plain Text from Hotkey by Vero Pepperrell
+- Pirate Weather by Alpha Chen
+- Placeholder Images by Vítor Galvão
+- Play Song by Caleb Evans
+- Recent Files by JY
+- Reddit Browser by Chris Grieser
+- Reminders by Robb Knight
+- Search Notes by Sean Ballinger
+- Shortcuts by Vítor Galvão
+- Shutdown Timer by Vítor Galvão
+- Smart WebP by Benjamin Oddou
+- Start Recording by Vítor Galvão
+- System Settings by Vítor Galvão
+- Toggle Stage Manager by Sam Edwardes
+- Urban Dictionary by Arthur Pinheiro
+- VSCodeDiff by Anug Moe
+- Word and character count by Stephen Christy
+
 ## Habits
 
 ### Streaks
